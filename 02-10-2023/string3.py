@@ -1,6 +1,6 @@
-pets= "cats & dogs"
+pets= "Cats & Dogs"
 pets.index("&")
 
-pets.index("c")
+pets.index("C")
 
-pets.index("dogs")
+pets.index("Dogs")
