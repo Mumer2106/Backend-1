@@ -4,6 +4,6 @@ count = 0
 
 for index, num in enumerate(num_list):
     if num == 36:
-        print("Number found at position:", index)
         count += 1
-        print("Total count of number 36:", count)
+
+print("Total count of number 36:", count)
