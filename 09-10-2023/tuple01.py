@@ -5,4 +5,4 @@ def convert_seconds(sec):
     return hours, minutes, sec
 
 result = convert_seconds(5000)
-type(result)
+print(result)
