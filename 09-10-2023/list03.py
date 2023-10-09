@@ -1,3 +1,3 @@
 fruits= ["apple", "banana", "mango"]
-fruits.insert(0, "Orange")
+fruits.remove(0, "orange")
 print(fruits)
